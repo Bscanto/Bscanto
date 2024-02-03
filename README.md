@@ -23,7 +23,7 @@
 ### 👨🏾‍💻 Desenvolvedor Front-end
 ### 🎮 Gosto muito de games
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/Bscanto?tab=repositories)
-### 📲 Meu [Linkedin](https://https://www.linkedin.com/in/bruno-canto-63072bbb//)
+### 📲 Meu [Linkedin](https://www.linkedin.com/in/brunosilvacanto)
  
 
 
