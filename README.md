@@ -19,7 +19,7 @@
 ## Hello devs!!! 👋👨🏾‍💻
 
 ### ☕ Código e café. 
-### 🔭Quem sou eu? Sou um Desenvolvedor Frontend Júnior, focado em aprender e buscando crescer na área. Estudante 4° semestre de ADS/IFFAR. 
+### 🔭Quem sou eu? Sou um Desenvolvedor Frontend Júnior, focado em aprender e buscando crescer na área. Estudante 5° semestre de ADS/IFFAR. 
 ### 👨🏾‍💻 Desenvolvedor Front-end
 ### 🎮 Gosto muito de games
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/Bscanto?tab=repositories)
