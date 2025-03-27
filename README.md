@@ -56,7 +56,7 @@
           
 <br>
 
-## Tecnologias que estou estudando no momento em um curso Front-end da Origamid👨🏾‍💻
+## Tecnologias que estou estudando no momento em um curso Front-end 👨🏾‍💻
 
 
 <br>
