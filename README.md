@@ -19,8 +19,8 @@
 ## Hello devs!!! 👋👨🏾‍💻
 
 ### ☕ Código e café. 
-### 🔭Quem sou eu? Sou um Desenvolvedor Frontend Júnior, focado em aprender e buscando crescer na área. Estudante 5° semestre de ADS/IFFAR. 
-### 👨🏾‍💻 Desenvolvedor Front-end
+### 🔭Quem sou eu? Sou um Desenvolvedorio FullStack JS Júnior, focado em aprender e buscando crescer na área. Formado em Analise e Desenvolvimento de Sistemas/IFFAR. 
+### 👨🏾‍💻 Desenvolvedor FullStack JS Júnior
 ### 🎮 Gosto muito de games
 ### 🎨 Veja mais de meus projetos em meus [Repositórios](https://github.com/Bscanto?tab=repositories)
 ### 📲 Meu [Linkedin](https://www.linkedin.com/in/brunosilvacanto)
