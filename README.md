@@ -78,14 +78,74 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 ✔ Inteligência Artificial
 ✔ Docker & DevOps
 ✔ Sistemas escaláveis
-📊 GitHub Analytics
-🔥 GitHub Streak
-🏆 GitHub Trophies
-🌐 Conecte-se comigo
-📈 Visitors
+```
+
+```md id="links-sections"
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bscanto&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brunosilvacanto" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bscanto" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="bruno_scanto@hotmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📈 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Bscanto&style=for-the-badge&color=blue"/>
+
+</div>
+
+```
 
 
 
 
-💡 Quote
+💡
 “Transformando ideias em soluções reais através da tecnologia.”
