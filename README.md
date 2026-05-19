@@ -17,7 +17,7 @@ Desenvolvedor Full Stack focado em aplicações modernas, automações inteligen
 🚀 Experiência com:
 Node.js • React • NestJS • PostgreSQL • TypeScript • n8n • IA Generativa
 
-🎓 Pós-graduando em Desenvolvimento Full Stack pela PUCRS.
+🎓 Pós-graduando em Engenharia de Softwarepela PUCMINAS.
 
 💡 Interessado em:
 Inteligência Artificial • Backend • Arquitetura de Software • Blockchain • Automação
