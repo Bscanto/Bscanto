@@ -80,7 +80,7 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 ✔ Sistemas escaláveis
 ```
 
-```md id="links-sections"
+
 
 # 📊 GitHub Analytics
 
@@ -141,8 +141,6 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 <img src="https://komarev.com/ghpvc/?username=Bscanto&style=for-the-badge&color=blue"/>
 
 </div>
-
-```
 
 
 
