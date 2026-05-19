@@ -66,20 +66,6 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 
 </div>
 
----
-
-# 🌟 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🌾 AgroRent | Plataforma para aluguel de implementos agrícolas | NestJS • PostgreSQL • React |
-| 🤖 IA WhatsApp | Agentes inteligentes integrados ao WhatsApp | n8n • LangChain • OpenAI |
-| 💰 Sistema Financeiro | Controle de antecipação de recebíveis | Node.js • PostgreSQL |
-| 🧠 Automação IA | Fluxos automatizados com IA e APIs | n8n • Redis • Pinecone |
-
-</div>
 
 ---
 
