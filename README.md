@@ -32,19 +32,19 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 
 ### 💻 Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,php,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,ts,php,postgres,mysql,redis" />
 
 ---
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,vue" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vue" />
 
 ---
 
 ### ⚙️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=docker,Intellij,git,github,vscode,figma" />
 
 </div>
 
