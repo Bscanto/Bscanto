@@ -134,8 +134,8 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -176,7 +176,7 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bscanto&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bscanto&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -186,7 +186,7 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
