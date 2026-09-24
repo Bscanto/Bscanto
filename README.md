@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js;IA+%7C+Automações+%7C+n8n;Construindo+soluções+reais+🚀&center=true&width=900&height=45&color=3B82F6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Mestrando+em+Computação;Sistemas+Distribuídos+%7C+Cloud+%7C+Edge;Inteligência+Artificial+%7C+Agentes+de+IA;Engenharia+de+Software+Adversarial&center=true&width=900&height=45&color=3B82F6)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,17 +12,58 @@
 
 ## 👨🏾‍💻 Bruno Canto
 
-Desenvolvedor Full Stack focado em aplicações modernas, automações inteligentes e soluções escaláveis.
+**Desenvolvedor de Software e Mestrando**, interessado na construção de sistemas modernos, distribuídos, escaláveis e inteligentes.
 
-🚀 Experiência com:
-Node.js • React • NestJS • PostgreSQL • TypeScript • n8n • IA Generativa
+Atualmente direciono meus estudos e projetos para **Sistemas Distribuídos**, **Cloud Computing**, **Edge Computing**, **Gerenciamento de Recursos Computacionais**, **Inteligência Artificial**, **Agentes de IA** e **Engenharia de Software Adversarial**.
 
-🎓 Pós-graduando em Engenharia de Softwarepela PUCMINAS.
-
-💡 Interessado em:
-Inteligência Artificial • Backend • Arquitetura de Software • Blockchain • Automação
+Também possuo experiência com desenvolvimento **Backend e Full Stack**, utilizando tecnologias como Java, Python, JavaScript, TypeScript, Node.js, React, bancos de dados relacionais e ferramentas de automação.
 
 </div>
+
+---
+
+# 🎓 Pesquisa & Mestrado
+
+Atualmente estou desenvolvendo minha formação acadêmica e aprofundando estudos em:
+
+- ☁️ **Cloud Computing & Edge Computing**
+- 🌐 **Sistemas Distribuídos**
+- 📦 **Gerenciamento de Recursos Computacionais**
+- 🤖 **Inteligência Artificial e Agentes de IA**
+- 🛡️ **Engenharia de Software Adversarial**
+- 🧠 **Adversarial Machine Learning**
+- ⚙️ **Otimização e algoritmos de alocação de recursos**
+- 🔐 **Segurança de Software e Sistemas Distribuídos**
+
+---
+
+# 🔬 Projetos e estudos em destaque
+
+### 📦 Bin Packing Problem
+
+Estudo e implementação de políticas para o **Bin Packing Problem (BPP)**, incluindo algoritmos heurísticos e comparação de estratégias de empacotamento.
+
+➡️ [Bin-Packing-Problem-BPP](https://github.com/Bscanto/Bin-Packing-Problem-BPP-)
+
+➡️ [Politicas-bin-packing](https://github.com/Bscanto/Politicas-bin-packing)
+
+### 🏥 Health Connect
+
+Projeto acadêmico desenvolvido como trabalho de conclusão, envolvendo desenvolvimento de software aplicado à área da saúde.
+
+➡️ [Project-TCC-Health-Connect](https://github.com/Bscanto/Project-TCC-Health-Connect)
+
+### 💻 Estudos e fundamentos
+
+Repositórios dedicados à evolução contínua em programação e desenvolvimento web:
+
+➡️ [Java](https://github.com/Bscanto/Java)
+
+➡️ [Fundamentos JavaScript](https://github.com/Bscanto/Fundamentos_JS)
+
+➡️ [Fundamentos HTML](https://github.com/Bscanto/Fundamentos_HTML)
+
+➡️ [Fundamentos CSS](https://github.com/Bscanto/Fundamentos_CSS)
 
 ---
 
@@ -30,57 +71,58 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 
 <div align="center">
 
-### 💻 Backend
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,ts,php,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
 
----
+### Backend & Bancos de Dados
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,redis" />
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vue" />
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vue" />
 
-### ⚙️ DevOps & Tools
+### DevOps & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=docker,Intellij,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,linux" />
 
 </div>
 
 ---
 
-# 🤖 IA & Automação
+# 🤖 Inteligência Artificial & Automação
 
-<div align="center">
-
-| Tecnologias | Experiência |
+| Tecnologia / Área | Aplicação |
 |---|---|
-| n8n | Criação de fluxos automatizados |
-| LangChain | Agentes inteligentes |
-| OpenAI API | IA Generativa |
-| Pinecone | Memória vetorial |
-| Redis | Persistência de contexto |
-| WhatsApp API | Automação conversacional |
-| ElevenLabs | Texto para voz |
-
-</div>
-
+| Python | Estudos, automações e experimentação |
+| OpenAI API | Aplicações com IA generativa |
+| LangChain | Desenvolvimento e estudo de agentes |
+| n8n | Automação de fluxos |
+| Redis | Persistência e contexto |
+| Pinecone | Busca e memória vetorial |
+| APIs | Integração entre serviços |
+| LLMs | Estudos sobre aplicações, agentes e segurança |
 
 ---
 
-# 📚 Atualmente Estudando
+# 📚 Atualmente estudando
 
-```txt
-✔ Arquitetura de Software
-✔ Microsserviços
-✔ Blockchain
-✔ Inteligência Artificial
-✔ Docker & DevOps
-✔ Sistemas escaláveis
+```text
+Sistemas Distribuídos
+Cloud Computing
+Edge Computing
+Gerenciamento de Recursos Computacionais
+Inteligência Artificial
+Agentes de IA
+Adversarial Machine Learning
+Engenharia de Software Adversarial
+Python
+Java
+Arquitetura e Segurança de Software
 ```
 
-
+---
 
 # 📊 GitHub Analytics
 
@@ -88,7 +130,7 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -104,17 +146,7 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Conecte-se comigo
+# 🌐 Contato
 
 <div align="center">
 
@@ -126,24 +158,22 @@ Inteligência Artificial • Backend • Arquitetura de Software • Blockchain 
 <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="bruno_scanto@hotmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:bruno_scanto@hotmail.com">
+<img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 Visitors
-
 <div align="center">
+
+### 📈 Visitantes
 
 <img src="https://komarev.com/ghpvc/?username=Bscanto&style=for-the-badge&color=blue"/>
 
+<br><br>
+
+**“Transformando estudo, pesquisa e tecnologia em soluções reais.”**
+
 </div>
-
-
-
-
-💡
-“Transformando ideias em soluções reais através da tecnologia.”
