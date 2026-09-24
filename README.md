@@ -176,7 +176,7 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bscanto&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bscanto&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -186,7 +186,7 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img width="70%" src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
