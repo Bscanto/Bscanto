@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Mestrando+em+Computação;Sistemas+Distribuídos+%7C+Cloud+%7C+Edge;Inteligência+Artificial+%7C+Agentes+de+IA;Engenharia+de+Software+Adversarial&center=true&width=900&height=45&color=3B82F6)](https://git.io/typing-svg)
 
+<br>
+
+<img src="https://img.shields.io/github/followers/Bscanto?label=Seguidores&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Bscanto?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas" />
+<img src="https://komarev.com/ghpvc/?username=Bscanto&style=for-the-badge&color=blue&label=VISITAS" />
+
 </div>
 
 ---
@@ -128,19 +134,59 @@ Arquitetura e Segurança de Software
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bscanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bscanto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Resumo de commits e contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bscanto&theme=tokyonight"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bscanto&theme=tokyonight" />
+
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bscanto&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bscanto&theme=tokyonight&utcOffset=-3" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bscanto&theme=tokyonight" />
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bscanto&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bscanto&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Bscanto&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+</div>
+
+---
+
+# 📉 Gráfico de atividade
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bscanto&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Bscanto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -167,12 +213,6 @@ Arquitetura e Segurança de Software
 ---
 
 <div align="center">
-
-### 📈 Visitantes
-
-<img src="https://komarev.com/ghpvc/?username=Bscanto&style=for-the-badge&color=blue"/>
-
-<br><br>
 
 **“Transformando estudo, pesquisa e tecnologia em soluções reais.”**
 
