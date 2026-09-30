@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Mestrando+em+Computação;Sistemas+Distribuídos+%7C+Cloud+%7C+Edge;Inteligência+Artificial+%7C+Agentes+de+IA;Engenharia+de+Software+Adversarial&center=true&width=900&height=45&color=3B82F6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Mestrando+em+Engenharia+Software;Sistemas+Distribuídos+%7C+Cloud+%7C+Edge;Inteligência+Artificial+%7C+Agentes+de+IA&center=true&width=900&height=45&color=3B82F6)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 **Desenvolvedor de Software e Mestrando**, interessado na construção de sistemas modernos, distribuídos, escaláveis e inteligentes.
 
-Atualmente direciono meus estudos e projetos para **Sistemas Distribuídos**, **Cloud Computing**, **Edge Computing**, **Gerenciamento de Recursos Computacionais**, **Inteligência Artificial**, **Agentes de IA** e **Engenharia de Software Adversarial**.
+Atualmente direciono meus estudos e projetos para **Sistemas Distribuídos**, **Cloud Computing**, **Edge Computing**, **Gerenciamento de Recursos Computacionais**, **Inteligência Artificial**, e  **Agentes de IA**.
 
 Também possuo experiência com desenvolvimento **Backend e Full Stack**, utilizando tecnologias como Java, Python, JavaScript, TypeScript, Node.js, React, bancos de dados relacionais e ferramentas de automação.
 
